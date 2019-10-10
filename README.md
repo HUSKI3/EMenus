@@ -6,12 +6,10 @@ EMenus is a Python package that allows the creation of menus.
 **Things available:**
  - Flexible menu system with only one command to create a menu
  - SHA256 key generation
- - Data base system with integration into menus
  - Validation of input in one line of code
  
 **Things to come soon:**
 
  - Fully customizable menus
  - Coloured menus
- - 
- 
+ - Data base integration into menus
