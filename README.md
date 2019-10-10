@@ -1,3 +1,5 @@
+**Current Version: 0.0.82 alpha build**
+
 ## EMenus  -fexible menus, encryption and much more! (SHPL WILL BE INTEGRATED INTO THIS PROJECT!)
 EMenus is a Python package that allows the creation of menus.
 **Guide:** [click here](https://github.com/HUSKI3/EMenus/blob/master/GUIDE.md)
