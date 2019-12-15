@@ -6,6 +6,7 @@ EMenus is a Python package that allows the creation of menus.
 
 **Instalation**
 To install run the following command in the terminal:
+
     pip3 install EMenus
 
 **Things available:**
