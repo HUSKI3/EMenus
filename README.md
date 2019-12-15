@@ -4,12 +4,15 @@
 EMenus is a Python package that allows the creation of menus.
 **Guide:** [click here](https://github.com/HUSKI3/EMenus/blob/master/GUIDE.md)
 
+**Instalation**
+To install run the following command in the terminal:
+    pip3 install EMenus
 
 **Things available:**
  - Flexible menu system with only one command to create a menu
  - Validation of input in one line of code
  - SHA256 key generation
- 
+
 **Things to come soon:**
 
  - Fully customizable menus
